@@ -91,7 +91,6 @@ Performed correlation analysis, visualized trends, and answered the following qu
  Q18) Does allocating a different room type affect the ADR?
  Q19) What type of guests do the hotels have?
  Q20) what's the cancellation rate by booking channel ?
- Q21) 
 
 ```
 Visualization Methods
@@ -130,9 +129,8 @@ Visualization Methods
 #### Individual Contributors
 1. Agent No. 9 has made the highest number of bookings.
 
-```
 ## Challenges
-```
+
 (1)Large number of duplicate records.
 (2)Incorrect data types for several columns.
 (3)Significant missing values in multiple fields.
