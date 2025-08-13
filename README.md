@@ -79,15 +79,15 @@ Performed correlation analysis, visualized trends, and answered the following qu
  Q6) What is the most common booking channel?
  Q7) What are the months with the highest bookings ?
  Q8) What are the top 10 nationalities ?
- Q9)  what are the top Stay Lengths?
- Q10)  What is the Hotel Revenue ditribution?
- Q11)  What is the median lead time for bookings at each hotel?
- Q12)  How does total stay vary between hotel types?
- Q13)  Which hotel has higher cancellation rate?
- Q14)  Which hotel has more repeating guests?
- Q15)  Which distribution channel generates more revenue?
- Q16)  What's the waiting period's effect on cancellation rate?
- Q17)  Does allocating a different room type affect the cancellation rate?
+ Q9) what are the top Stay Lengths?
+ Q10) What is the Hotel Revenue ditribution?
+ Q11) What is the median lead time for bookings at each hotel?
+ Q12) How does total stay vary between hotel types?
+ Q13) Which hotel has higher cancellation rate?
+ Q14) Which hotel has more repeating guests?
+ Q15) Which distribution channel generates more revenue?
+ Q16) What's the waiting period's effect on cancellation rate?
+ Q17) Does allocating a different room type affect the cancellation rate?
  Q18) Does allocating a different room type affect the ADR?
  Q19) What type of guests do the hotels have?
  Q20) what's the cancellation rate by booking channel ?
